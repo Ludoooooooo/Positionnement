@@ -1,0 +1,20 @@
+
+#menu{
+    background-color : rgb(237, 67, 0);
+    width : 150px;
+    height : 150px;
+    border-radius: 30px; 
+    padding : 10px;
+    position : sticky;
+    top : 2px;
+}
+
+#textmenu{
+    color : white;
+    text-align: center;
+}
+
+#text{
+    color :rgb(0, 0, 0);
+    position: flex;
+}

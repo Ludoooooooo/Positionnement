@@ -1,0 +1,47 @@
+#vert{
+    background-color : rgb(14, 208, 14);
+    width : 150px;
+    height : 150px;
+    position : absolute;
+    top : 66px;
+    left : 66px;
+}
+
+#bleu{
+    background-color : rgba(0, 66, 247, 0.874);
+    width : 150px;
+    height : 150px;
+    position  : absolute;
+    top : 110px;
+    left : 110px;
+    z-index : 2;
+}
+
+#orange{
+    background-color : rgba(237, 142, 0, 0.895);
+    width : 150px;
+    height : 150px;
+    position : absolute;
+    top : 234px;
+    left : 234px;
+    z-index : 1;
+}
+
+#jaune{
+    background-color : yellow;
+    width : 150px;
+    height : 150px;
+    position : absolute;
+    top : 280px;
+    left : 280px;
+}
+
+#bleuclair{
+    background-color : lightblue;
+    width : 500px;
+    height : 500px;
+}
+
+div{
+    border : 2px solid black;
+}
